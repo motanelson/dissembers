@@ -1,1 +1,1 @@
-library of gui interface
+fors function debugs
